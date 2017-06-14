@@ -16,7 +16,7 @@ Contributors
 #.  `Lekhobola Tsoeunyane <mailto:lekhobola@gmail.com>`_
 #.  `Brad Kahn <mailto:bradkahn92@gmail.com>`_
 #.  `Alan Langman <mailto:alan.langman@gmail.com>`_
-#.  `Simon Scott <(mailto:sscott.za@gmail.com>`_
+#.  `Simon Scott <mailto:sscott.za@gmail.com>`_
 
 Indices and tables
 ==================
